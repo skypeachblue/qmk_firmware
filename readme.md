@@ -1,3 +1,6 @@
+- `qmk compile -km j02 -kb dztech/og60`
+- `qmk flash -km j02 -kb dztech/og60`
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
