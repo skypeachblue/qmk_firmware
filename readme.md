@@ -1,5 +1,5 @@
-- `qmk compile -km j02 -kb dztech/og60`
-- `qmk flash -km j02 -kb dztech/og60`
+- `qmk compile -kb kprepublic/bm60hsrgb_poker/rev1 -km j02`
+- `qmk flash -kb kprepublic/bm60hsrgb_poker/rev1 -km j02`
 
 # Quantum Mechanical Keyboard Firmware
 
